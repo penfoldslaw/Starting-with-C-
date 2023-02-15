@@ -1,0 +1,11 @@
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.AssemblyReference.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Card_Identifier.resources
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Properties.Resources.resources
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.GenerateResource.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.CoreCompileInputs.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb
