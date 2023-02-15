@@ -1,0 +1,11 @@
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\bin\Debug\Split Bill App.exe.config
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\bin\Debug\Split Bill App.exe
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\bin\Debug\Split Bill App.pdb
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split Bill App.csproj.AssemblyReference.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split Bill App.csproj.SuggestedBindingRedirects.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split_Bill_App.Form1.resources
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split_Bill_App.Properties.Resources.resources
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split Bill App.csproj.GenerateResource.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split Bill App.csproj.CoreCompileInputs.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split Bill App.exe
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Split Bill App\Split Bill App\obj\Debug\Split Bill App.pdb
